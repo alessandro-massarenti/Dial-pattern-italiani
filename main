@@ -5,10 +5,10 @@
 11N           Numeri di emergenza
 15XX          Numeri di emergenza secondaria
 
-//Altro
+// Altro
 XXX           Numeri a 3 cifre
 XXXXXXXXXX    Numeri a 10 cifre
 XXXXXXXXXXX   Numeri a 11 cifre
 
-//Failover ;-)
+// Default
 X.            Tutti
